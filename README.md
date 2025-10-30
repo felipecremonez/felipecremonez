@@ -1,55 +1,104 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad42f5&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luís+Felipe+Cremonez;I'm+22+years+old;I+am+from+Mirandópolis,+SP;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- 🌌 HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9f2bff&height=120&section=header&text=Welcome+to+My+Universe+👾&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipecremonez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luís Felipe Cremonez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecremonez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<h1 align="center">✨ Hey there, I'm <span style="color:#9f2bff;">Felipe Cremonez</span> 🚀</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9f2bff&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+💻;UI%2FUX+Lover+🎨;Creative+Thinker+🧠;Tech+Explorer+🌌;Always+Leveling+Up+🔥)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipecremonez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipecremonez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## 👨‍🚀 Sobre mim
 
-<div align="center">  
-<a href="https://www.instagram.com/iamlipao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+> 💡 Desenvolvedor front-end que ama criar experiências imersivas e interfaces que contam histórias.  
+> 🎮 Misturo **design, tecnologia e emoção** pra entregar mais do que sites — entrego sensações.  
+> ⚙️ Sempre em modo *"curioso ativo"*, explorando novos frameworks, animações e ideias.  
+> ☕ Café + Criatividade = Código fluindo!
 
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
+
+## 🧠 Minha Stack
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipecremonez}/count.svg" /></p> 
-<br></div>
+
+| 🎨 Front-End | ⚙️ Back-End | 🧩 Ferramentas |
+|---------------|--------------|----------------|
+| React • Next.js • TypeScript • Tailwind • CSS Animations | Node.js • Express • APIs REST | Git • GitHub • Figma • Vite • VSCode |
+
+</div>
+
+---
+
+## 🌈 Em constante evolução
+
+- 🚀 **React** 
+- 💎 **Next.js**  
+- 🧩 **UI**  
+- 🌌 **MySQL**
+
+---
+
+## ⚡ Projetos que me definem
+
+💎 **[Portfólio Interativo](https://felipecremonez.github.io/)**  
+> Um espaço digital que mistura arte, movimento e código.  
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad42f5&height=120&section=footer"/>
+---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Felipe Cremonez GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecremonez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9f2bff&icon_color=9f2bff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecremonez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9f2bff)
+
+</div>
+
+---
+
+## 🎭 Modo Dinâmico (Dark/Light)
+
+> 💡 Este README muda conforme o tema do GitHub!  
+> 🌞 Se o modo claro estiver ativo → tons vibrantes.  
+> 🌙 Se o modo escuro estiver ativo → neon e contraste futurista.  
+> *(Dica: troque o tema no canto superior direito e veja a mágica acontecer!)*  
+
+---
+
+## 🕹️ Curiosidades sobre mim
+
+- 🧠 Transformo ideias em interfaces e problemas em soluções  
+- 🎧 Codando ao som de lo-fi, synthwave e rock clássico  
+- 🐉 Sou viciado em criar *mini projetos visuais* e experimentos criativos  
+- 💬 Provavelmente tomando café enquanto você lê isso ☕  
+
+---
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/felipecremonez](https://www.linkedin.com/in/luis-felipe-cremonez-80aa3b230)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9f2bff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lipecremone@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff007f?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/felipecremonez">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9f2bff"/>
+  </a>
+  <a href="https://www.instagram.com/iamlipao" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+🎯 *"Criar é minha forma de hackear a realidade e deixá-la mais bonita."*  
+
+![Neon Divider](https://i.imgur.com/V7g7Eix.gif)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9f2bff&height=120&section=footer"/>
