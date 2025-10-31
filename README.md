@@ -22,7 +22,7 @@
 
 | 🎨 Front-End | ⚙️ Back-End | 🧩 Ferramentas |
 |---------------|--------------|----------------|
-| React • Next.js • TypeScript • Tailwind • CSS Animations | Node.js • Express • APIs REST | Git • GitHub • Figma • Vite • VSCode |
+| React • TypeScript • CSS Animations | Node.js • APIs REST | Git • GitHub • VSCode |
 
 </div>
 
@@ -68,7 +68,7 @@
 ## 🕹️ Curiosidades sobre mim
 
 - 🧠 Transformo ideias em interfaces e problemas em soluções  
-- 🎧 Codando ao som de lo-fi, synthwave e rock clássico  
+- 🎧 Codando ao som de lo-fi, MPB e rock
 - 🐉 Sou viciado em criar *mini projetos visuais* e experimentos criativos  
 - 💬 Provavelmente tomando café enquanto você lê isso ☕  
 
@@ -96,8 +96,6 @@
 <div align="center">
 
 🎯 *"Criar é minha forma de hackear a realidade e deixá-la mais bonita."*  
-
-![Neon Divider](https://i.imgur.com/V7g7Eix.gif)
 
 </div>
 
